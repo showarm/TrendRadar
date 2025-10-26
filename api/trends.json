@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T19:20:02.425437+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-10-26T20:49:56.029320+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普：愿在亚洲行期间会见金正恩",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时44分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时44分 ~ 20时49分]"
         },
         {
           "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
@@ -110,8 +110,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时44分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时44分 ~ 20时49分]"
         },
         {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
@@ -157,6 +157,19 @@
           "time_info": "[00时30分 ~ 10时03分]"
         },
         {
+          "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1964649033109865460",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 20时49分]"
+        },
+        {
           "title": "特朗普玩“军阀剧本”这波绝了!",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346209&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%A9%E2%80%9C%E5%86%9B%E9%98%80%E5%89%A7%E6%9C%AC%E2%80%9D%E8%BF%99%E6%B3%A2%E7%BB%9D%E4%BA%86%21",
           "source": "贴吧",
@@ -167,11 +180,12 @@
             22,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 20时49分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -184,8 +198,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时44分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时44分 ~ 20时49分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -227,18 +241,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时03分 ~ 18时24分]"
-        },
-        {
-          "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1964649033109865460",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 19时20分]"
         },
         {
           "title": "特朗普：对加拿大加征10%关税",
@@ -324,6 +326,19 @@
           "time_info": "13时26分"
         },
         {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 20时49分]"
+        },
+        {
           "title": "美国总统特朗普：将宣布与柬埔寨、马来西亚达成贸易协议。",
           "url": "https://flash.jin10.com/detail/20251026124715964800",
           "source": "金十数据",
@@ -344,17 +359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
-          "url": "https://flash.jin10.com/detail/20251026184624203800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "东盟国家为何陆续向特朗普关税妥协",
@@ -379,6 +383,18 @@
           "time_info": "13时26分"
         },
         {
+          "title": "美俄代表持续接触，特朗普：暂不打算见普京",
+          "url": "https://news.ifeng.com/c/8nlfLKUi6bc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时49分]"
+        },
+        {
           "title": "美国总统特朗普：将签署历史性协议以结束军事冲突。",
           "url": "https://flash.jin10.com/detail/20251026124151834800",
           "source": "金十数据",
@@ -390,28 +406,16 @@
           "time_info": "13时26分"
         },
         {
-          "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
-          "url": "https://wallstreetcn.com/livenews/2993772",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
+          "url": "https://flash.jin10.com/detail/20251026184624203800",
+          "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
-          "url": "https://www.cls.cn/detail/2180721",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 19时20分]"
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时49分]"
         },
         {
           "title": "高市早苗与特朗普进行首次电话会谈",
@@ -488,6 +492,18 @@
           "time_info": "[16时32分 ~ 17时25分]"
         },
         {
+          "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
+          "url": "https://wallstreetcn.com/livenews/2993772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时49分]"
+        },
+        {
           "title": "美国总统特朗普：将让贸易团队进行谈判。",
           "url": "https://flash.jin10.com/detail/20251026154945077800",
           "source": "金十数据",
@@ -525,6 +541,32 @@
           "time_info": "[18时24分 ~ 19时20分]"
         },
         {
+          "title": "美国财长贝森特：自美国总统特朗普上任以来，总体通胀率已下降。",
+          "url": "https://flash.jin10.com/detail/20251026173928957800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时49分]"
+        },
+        {
+          "title": "巴西外交部长：巴西总统卢拉告诉美国总统特朗普，拉丁美洲是一个和平的地区，并提出愿意与委内瑞拉进行斡旋，以寻找解决方案。",
+          "url": "https://flash.jin10.com/detail/20251026173029020800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时49分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普抵达吉隆坡。",
           "url": "https://flash.jin10.com/detail/20251026095739323800",
           "source": "金十数据",
@@ -536,17 +578,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 13时26分]"
-        },
-        {
-          "title": "美俄代表持续接触，特朗普：暂不打算见普京",
-          "url": "https://news.ifeng.com/c/8nlfLKUi6bc",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "美国总统特朗普：我认为我们最终会与巴西建立良好的关系。",
@@ -597,18 +628,6 @@
           "time_info": "[16时32分 ~ 17时25分]"
         },
         {
-          "title": "美国财长贝森特：自美国总统特朗普上任以来，总体通胀率已下降。",
-          "url": "https://flash.jin10.com/detail/20251026173928957800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
-        },
-        {
           "title": "美国总统特朗普：关税方面，一切都是公平的。",
           "url": "https://flash.jin10.com/detail/20251026154851130800",
           "source": "金十数据",
@@ -632,16 +651,28 @@
           "time_info": "[14时36分 ~ 15时24分]"
         },
         {
-          "title": "巴西外交部长：巴西总统卢拉告诉美国总统特朗普，拉丁美洲是一个和平的地区，并提出愿意与委内瑞拉进行斡旋，以寻找解决方案。",
-          "url": "https://flash.jin10.com/detail/20251026173029020800",
+          "title": "克里姆林宫：是美国总统特朗普首先表示在匈牙利举行峰会毫无意义，俄罗斯总统普京对此表示赞同。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20251026181522320800",
           "source": "金十数据",
           "ranks": [
-            10,
-            26
+            9,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
+          "time_info": "[19时20分 ~ 20时49分]"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京赞赏美国总统特朗普解决乌克兰危机的愿望，但不可能一蹴而就。",
+          "url": "https://flash.jin10.com/detail/20251026181455137800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时49分]"
         },
         {
           "title": "巴西外交部执行秘书：巴西总统卢拉告诉美国总统特朗普，实施马格尼茨基制裁是不公平的。",
@@ -654,6 +685,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
+          "title": "克里姆林宫：谈论取消俄罗斯总统普京与美国总统特朗普的峰会是错误的。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20251026181153765800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时49分]"
         },
         {
           "title": "特朗普将至 韩国或含泪与美达成协议",
@@ -735,17 +778,6 @@
           "time_info": "17时25分"
         },
         {
-          "title": "克里姆林宫：是美国总统特朗普首先表示在匈牙利举行峰会毫无意义，俄罗斯总统普京对此表示赞同。（俄新社）",
-          "url": "https://flash.jin10.com/detail/20251026181522320800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "特朗普为何对高市早苗发出示好信号",
           "url": "https://www.toutiao.com/trending/7564610674442145334/",
           "source": "今日头条",
@@ -779,28 +811,6 @@
           "time_info": "13时26分"
         },
         {
-          "title": "克里姆林宫：俄罗斯总统普京赞赏美国总统特朗普解决乌克兰危机的愿望，但不可能一蹴而就。",
-          "url": "https://flash.jin10.com/detail/20251026181455137800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "克里姆林宫：谈论取消俄罗斯总统普京与美国总统特朗普的峰会是错误的。（俄新社）",
-          "url": "https://flash.jin10.com/detail/20251026181153765800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "特朗普称“国际部队”不久将进驻加沙",
           "url": "https://www.toutiao.com/trending/7565087675402272806/",
           "source": "今日头条",
@@ -821,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965770697927300097",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "巴西外交部长：美巴两位总统进行了愉快的交谈，美国总统特朗普表示他钦佩巴西总统卢拉的政治生涯。",
@@ -935,6 +956,63 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "第一批金价下跌受害者出现了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D23%26band_rank%3D24%26filter_type%3Drealtimehot%26realpos%3D24%26cate%3D5001%26c_type%3D31%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258F%2597%25E5%25AE%25B3%25E8%2580%2585%25E5%2587%25BA%25E7%258E%25B0%25E4%25BA%2586%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1761459605%26pre_seqid%3D176145960519903677617143",
+          "source": "微博",
+          "ranks": [
+            24,
+            12,
+            14,
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 19时20分]"
+        },
+        {
+          "title": "金价暴跌 大学生把生活费亏没了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 19时20分]"
+        },
+        {
+          "title": "第一批金价下跌受害者出现了",
+          "url": "https://www.toutiao.com/trending/7565011357729521670/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "金价暴跌有大学生把生活费亏没了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D15%26band_rank%3D15%26filter_type%3Drealtimehot%26pos%3D15%26c_type%3D31%26dgr%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26cate%3D5001%26display_time%3D1761481805%26pre_seqid%3D17614818056310326281157",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -1019,46 +1097,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "第一批金价下跌受害者出现了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D23%26band_rank%3D24%26filter_type%3Drealtimehot%26realpos%3D24%26cate%3D5001%26c_type%3D31%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258F%2597%25E5%25AE%25B3%25E8%2580%2585%25E5%2587%25BA%25E7%258E%25B0%25E4%25BA%2586%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1761459605%26pre_seqid%3D176145960519903677617143",
-          "source": "微博",
-          "ranks": [
-            24,
-            12,
-            14,
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 19时20分]"
-        },
-        {
-          "title": "金价暴跌 大学生把生活费亏没了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 20时49分]"
         }
       ]
     },
