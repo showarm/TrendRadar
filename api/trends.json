@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T16:35:42.338431+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-10-28T17:29:12.763529+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -106,6 +106,17 @@
           "time_info": "[12时31分 ~ 16时35分]"
         },
         {
+          "title": "特朗普再谈对台立场释放何信号",
+          "url": "https://www.toutiao.com/trending/7566177220696215094/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
           "url": "https://www.toutiao.com/trending/7565063392713575990/",
           "source": "今日头条",
@@ -141,17 +152,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
           "url": "https://news.ifeng.com/c/8noSUYL9rE6",
           "source": "凤凰网",
@@ -173,6 +173,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 17时29分]"
         },
         {
           "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
@@ -295,6 +307,17 @@
           "time_info": "[09时57分 ~ 09时58分]"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
           "url": "https://flash.jin10.com/detail/20251028114540746800",
           "source": "金十数据",
@@ -350,6 +373,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D16%26band_rank%3D16%26stream_entry_id%3D31%26pos%3D16%26lcate%3D5001%26flag%3D0%26display_time%3D1761643594%26pre_seqid%3D17616435949260281044382",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "消息人士：哈马斯称将遵守特朗普计划下的协议。",
@@ -469,7 +503,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -491,7 +525,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -601,7 +635,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -612,7 +646,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -631,8 +665,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 16时35分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -740,7 +774,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -770,7 +804,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -789,11 +823,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 17时29分]"
         },
         {
           "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
@@ -802,7 +837,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -812,11 +847,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 17时29分]"
         },
         {
           "title": "金价",
@@ -871,9 +907,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "市场分析：贸易乐观情绪打压需求，金价下跌",
+          "url": "https://flash.jin10.com/detail/20251028171145842800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "分析师：贸易乐观情绪拖累金价 避险买盘有所减少",
@@ -1001,8 +1048,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
+          "url": "https://flash.jin10.com/detail/20251028172154979800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
           "url": "https://flash.jin10.com/detail/20251028045401357800",
