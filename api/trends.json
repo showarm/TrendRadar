@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T20:49:25.354819+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2025-11-01T21:30:02.985766+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时02分 ~ 20时49分]"
+          "appearance_count": 19,
+          "time_info": "[10时02分 ~ 21时30分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -64,8 +65,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时23分 ~ 20时49分]"
+          "appearance_count": 20,
+          "time_info": "[07时23分 ~ 21时30分]"
+        },
+        {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 21时30分]"
         },
         {
           "title": "特朗普：加总理道歉了，没用",
@@ -77,6 +90,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时45分 ~ 17时26分]"
+        },
+        {
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 21时30分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -94,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时02分 ~ 20时49分]"
+          "appearance_count": 19,
+          "time_info": "[10时02分 ~ 21时30分]"
         },
         {
           "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
@@ -133,31 +157,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时24分 ~ 20时49分]"
-        },
-        {
-          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
-          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 20时49分]"
-        },
-        {
-          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
-          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 20时49分]"
+          "appearance_count": 16,
+          "time_info": "[13时24分 ~ 21时30分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -392,6 +393,17 @@
           "time_info": "[04时30分 ~ 07时23分]"
         },
         {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 21时30分]"
+        },
+        {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
           "url": "https://wallstreetcn.com/livenews/2997914",
           "source": "华尔街见闻-快讯",
@@ -497,17 +509,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
@@ -711,8 +712,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时23分 ~ 20时49分]"
+          "appearance_count": 20,
+          "time_info": "[07时23分 ~ 21时30分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -727,8 +728,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时23分 ~ 20时49分]"
+          "appearance_count": 20,
+          "time_info": "[07时23分 ~ 21时30分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -823,6 +824,17 @@
           "time_info": "[05时21分 ~ 07时23分]"
         },
         {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 21时30分]"
+        },
+        {
           "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
           "url": "https://www.cls.cn/detail/2188453",
           "source": "财联社热门",
@@ -833,17 +845,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 11时45分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -982,19 +983,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[15时21分 ~ 21时30分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时49分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时30分]"
         }
       ]
     },
@@ -1009,11 +1011,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 20时49分]"
+          "appearance_count": 9,
+          "time_info": "[17时25分 ~ 21时30分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
