@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T11:17:07.829061+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-11-04T12:33:05.982360+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -67,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时33分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -78,11 +78,12 @@
             14,
             16,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时33分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -137,8 +138,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 11时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 12时33分]"
+        },
+        {
+          "title": "特朗普：美核武可毁灭世界150次",
+          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
+          "url": "https://news.ifeng.com/c/8o0F27J4SeK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
+          "url": "https://news.ifeng.com/c/8o00YT3c5ib",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -285,6 +319,17 @@
           "time_info": "[02时35分 ~ 03时21分]"
         },
         {
+          "title": "特朗普改口不去全球关税合法性听证会",
+          "url": "https://www.toutiao.com/trending/7568682000622554660/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
           "title": "美联储理事库克：在法庭审理（美国总统特朗普政府所谓的抵押贷款）官司期间，对各方的支持表示由衷的感谢。 我不会谈论正在进行的庭审，那样做是不合适的。",
           "url": "https://wallstreetcn.com/livenews/2998727",
           "source": "华尔街见闻-快讯",
@@ -307,6 +352,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时25分]"
+        },
+        {
+          "title": "美国多方“围剿”特朗普只为废除关税",
+          "url": "https://www.toutiao.com/trending/7568663171070692900/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
         },
         {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
@@ -366,8 +422,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 11时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 12时33分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -378,8 +434,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 11时17分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 12时33分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -391,6 +447,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 12时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -427,18 +495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时25分]"
-        },
-        {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 11时17分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股收盘）",
@@ -571,6 +627,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 12时33分]"
+        },
+        {
           "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
           "url": "https://wallstreetcn.com/livenews/2998742",
           "source": "华尔街见闻-快讯",
@@ -581,18 +649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时25分]"
-        },
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 11时17分]"
         },
         {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
@@ -612,7 +668,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -686,8 +742,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时25分 ~ 11时17分]"
+          "appearance_count": 10,
+          "time_info": "[05时25分 ~ 12时33分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -698,8 +754,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 11时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 12时33分]"
         }
       ]
     },
@@ -763,6 +819,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI投资大赛落下帷幕，阿里千问Qwen夺冠，DeepSeek亚军",
+          "url": "https://wallstreetcn.com/livenews/2998954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -795,8 +868,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时33分]"
         }
       ]
     }
