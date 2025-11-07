@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T17:28:02.964300+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2025-11-07T18:30:20.164468+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时30分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -62,11 +63,12 @@
             17,
             21,
             10,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 18时30分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
@@ -117,6 +119,18 @@
           "time_info": "07时40分"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时30分]"
+        },
+        {
           "title": "特朗普官宣降价后药企高管当场晕倒",
           "url": "https://www.toutiao.com/trending/7569788096678608905/",
           "source": "今日头条",
@@ -159,18 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时28分]"
         },
         {
           "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
@@ -778,6 +780,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "特朗普官宣降价 药企高管当场晕倒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "美国总统特朗普：最高法院对关税案若作出负面裁决，对美国来说将是毁灭性的。",
           "url": "https://flash.jin10.com/detail/20251107013319980800",
           "source": "金十数据",
@@ -858,7 +871,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -900,6 +913,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时25分 ~ 15时25分]"
+        },
+        {
+          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
+          "url": "https://flash.jin10.com/detail/20251107180537622800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -967,7 +991,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -978,7 +1002,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1033,7 +1057,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1100,6 +1124,19 @@
           "time_info": "[07时40分 ~ 15时25分]"
         },
         {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时59分 ~ 18时30分]"
+        },
+        {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
           "url": "https://www.cls.cn/detail/2193555",
           "source": "财联社热门",
@@ -1129,18 +1166,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时17分 ~ 17时28分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 17时28分]"
         },
         {
           "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
@@ -1319,11 +1344,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时25分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[06时25分 ~ 18时30分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
@@ -1402,8 +1428,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时40分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时40分 ~ 18时30分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
