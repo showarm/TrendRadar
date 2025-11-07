@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T18:30:20.164468+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2025-11-07T19:23:01.295711+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 77,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -30,18 +30,6 @@
           "time_info": "[00时35分 ~ 07时40分]"
         },
         {
-          "title": "特朗普重申不会出席G20峰会",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时40分]"
-        },
-        {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
@@ -50,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时30分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时23分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -64,11 +52,24 @@
             21,
             10,
             29,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 18时30分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 19时23分]"
+        },
+        {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时40分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
@@ -81,6 +82,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时59分 ~ 16时35分]"
+        },
+        {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时23分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -119,16 +133,15 @@
           "time_info": "07时40分"
         },
         {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-07）",
+          "url": "https://flash.jin10.com/detail/20251107191347439800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "特朗普官宣降价后药企高管当场晕倒",
@@ -363,6 +376,17 @@
           "time_info": "[11时17分 ~ 13时26分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
           "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
           "url": "https://flash.jin10.com/detail/20251107030006844800",
           "source": "金十数据",
@@ -491,6 +515,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -786,7 +821,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -921,7 +956,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -1133,8 +1168,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 18时30分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 19时23分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1348,8 +1383,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时25分 ~ 18时30分]"
+          "appearance_count": 14,
+          "time_info": "[06时25分 ~ 19时23分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
@@ -1428,8 +1463,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时40分 ~ 18时30分]"
+          "appearance_count": 13,
+          "time_info": "[07时40分 ~ 19时23分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
