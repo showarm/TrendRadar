@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T22:23:13.167751+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-11-08T23:25:25.691839+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时24分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[17时24分 ~ 23时25分]"
         },
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -76,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时23分 ~ 22时23分]"
+          "appearance_count": 14,
+          "time_info": "[15时23分 ~ 23时25分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -130,11 +130,35 @@
             1,
             4,
             6,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 23时25分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时47分 ~ 23时25分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
+          "url": "https://wallstreetcn.com/livenews/3001591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时25分]"
         },
         {
           "title": "特朗普被问急眼了怒喷记者",
@@ -146,17 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时21分 ~ 19时22分]"
-        },
-        {
-          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
-          "url": "https://wallstreetcn.com/livenews/3001591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -174,15 +187,15 @@
           "time_info": "[16时33分 ~ 20时47分]"
         },
         {
-          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
-          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
+          "url": "https://flash.jin10.com/detail/20251108220636044800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时47分 ~ 22时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
@@ -715,8 +728,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时23分 ~ 22时23分]"
+          "appearance_count": 20,
+          "time_info": "[07时23分 ~ 23时25分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -908,65 +921,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 04时28分]"
-        },
-        {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时24分 ~ 22时23分]"
-        },
-        {
-          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3001405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时23分]"
-        },
-        {
-          "title": "OpenAI要求美国总统特朗普的政府对众多数据中心扩大由“芯片法案”提供的信用支持。",
-          "url": "https://wallstreetcn.com/livenews/3001405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "伊朗总统：“美国想让伊朗一直跪着”",
+          "url": "https://wallstreetcn.com/livenews/3001596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
         {
           "title": "形势危急！伊朗总统：可能从德黑兰撤离",
           "url": "https://news.ifeng.com/c/8o6zKd55xJa",
@@ -1015,6 +983,62 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[17时24分 ~ 23时25分]"
+        },
+        {
+          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "OpenAI要求美国总统特朗普的政府对众多数据中心扩大由“芯片法案”提供的信用支持。",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1042,8 +1066,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时33分 ~ 22时23分]"
+          "appearance_count": 13,
+          "time_info": "[16时33分 ~ 23时25分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
