@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T22:28:31.983395+08:00",
-  "total_titles_processed": 1957,
+  "generated_at": "2025-11-12T23:31:04.963038+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -148,17 +148,6 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
-          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3003486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
           "url": "https://flash.jin10.com/detail/20251112070247139800",
           "source": "金十数据",
@@ -187,9 +176,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
+        },
+        {
+          "title": "特朗普政府新规：外国人可能被拒签的慢性疾病包括肥胖、高血压、心血管等",
+          "url": "https://wallstreetcn.com/livenews/3003514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "特朗普为何拒为高市涉台谬论撑腰",
@@ -216,6 +216,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 03时21分]"
+        },
+        {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时31分]"
         },
         {
           "title": "美国总统特朗普谈众议院就结束停摆协议的潜在投票：我认为投票结果会是积极的。",
@@ -436,7 +448,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -502,7 +514,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -568,7 +580,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -664,7 +676,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -792,7 +804,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -806,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "AMD积极前景驱动基准指数走强 美股仍处于复杂情绪交织中",
+          "url": "https://flash.jin10.com/detail/20251112230532535800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -954,7 +977,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -965,7 +988,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -976,7 +999,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
@@ -1145,6 +1168,69 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[07时24分 ~ 23时31分]"
+        },
+        {
+          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
+          "url": "https://flash.jin10.com/detail/20251112162921044800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "美债收益率和美元上涨 市场焦点转向积压经济数据",
+          "url": "https://flash.jin10.com/detail/20251112220357212800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -1200,58 +1286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 14时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时24分 ~ 22时28分]"
-        },
-        {
-          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
-          "url": "https://flash.jin10.com/detail/20251112162921044800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
-          "url": "https://wallstreetcn.com/livenews/3003444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "美债收益率和美元上涨 市场焦点转向积压经济数据",
-          "url": "https://flash.jin10.com/detail/20251112220357212800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
         }
       ]
     },
@@ -1329,7 +1363,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
