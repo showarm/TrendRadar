@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T07:25:15.066065+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-11-30T10:13:45.253832+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 10时13分]"
+        },
+        {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
           "url": "https://news.ifeng.com/c/8og9MLOfFoi",
           "source": "凤凰网",
@@ -30,6 +42,18 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
+          "url": "https://flash.jin10.com/detail/20251129220829620800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 10时13分]"
+        },
+        {
           "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
           "url": "https://m.thepaper.cn/newsDetail_forward_32064050",
           "source": "澎湃新闻",
@@ -39,28 +63,6 @@
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉空域应被视为关闭",
-          "url": "https://wallstreetcn.com/livenews/3012482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
-          "url": "https://flash.jin10.com/detail/20251129220829620800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
@@ -158,6 +160,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
+          "url": "https://wallstreetcn.com/articles/3760377",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时13分]"
+        },
+        {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
           "url": "https://wallstreetcn.com/articles/3760370",
           "source": "华尔街见闻",
@@ -170,26 +184,16 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
-          "url": "https://wallstreetcn.com/articles/3760377",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时13分]"
         }
       ]
     },
@@ -208,8 +212,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时13分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -217,11 +221,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 07时25分]"
+          "appearance_count": 7,
+          "time_info": "[03时20分 ~ 10时13分]"
         }
       ]
     },
@@ -251,11 +256,12 @@
           "url": "https://flash.jin10.com/detail/20251129231934613800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 10时13分]"
         }
       ]
     }
