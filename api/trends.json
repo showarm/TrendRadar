@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:33:00.611369+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2025-12-07T17:26:04.571202+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
             4,
             10,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 17时26分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
@@ -92,11 +93,12 @@
             1,
             7,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 17时26分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -242,8 +244,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 17时26分]"
         }
       ]
     },
