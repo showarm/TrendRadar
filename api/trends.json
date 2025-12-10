@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:32:58.658714+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2025-12-10T18:33:04.016048+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 17时32分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 18时33分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -123,6 +123,19 @@
           "time_info": "[14时42分 ~ 16时38分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 18时33分]"
+        },
+        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -136,6 +149,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 06时40分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 18时33分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -170,30 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时32分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时32分]"
         },
         {
           "title": "特朗普：泽连斯基要开始接受现实了",
@@ -328,6 +329,17 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
+        },
+        {
           "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
           "url": "https://flash.jin10.com/detail/20251210060922610800",
           "source": "金十数据",
@@ -388,6 +400,17 @@
           "time_info": "[06时40分 ~ 07时27分]"
         },
         {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
+        },
+        {
           "title": "邵永灵：特朗普正用国家权力变现",
           "url": "https://www.toutiao.com/trending/7582064656005467699/",
           "source": "今日头条",
@@ -433,6 +456,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210181323063800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
           "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
           "url": "https://wallstreetcn.com/livenews/3018039",
           "source": "华尔街见闻-快讯",
@@ -472,7 +506,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -966,8 +1000,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时07分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时07分 ~ 18时33分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1005,6 +1039,56 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据黎巴嫩国家通讯社报道，黎巴嫩外交部长建议在第三国中立国与伊朗举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251210182222746800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "伊总统重申伊朗与委内瑞拉站在一起",
+          "url": "https://flash.jin10.com/detail/20251210151717145800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "黎巴嫩外交部长表示，婉拒伊朗的访问邀请并不意味着“拒绝讨论”，而是“当前尚不具备合适条件”。",
+          "url": "https://flash.jin10.com/detail/20251210181717842800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社报道，鉴于“当前形势”，黎巴嫩外交部长婉拒了伊朗访问德黑兰的邀请。",
+          "url": "https://flash.jin10.com/detail/20251210181615989800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -1027,7 +1111,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -1081,23 +1165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊总统重申伊朗与委内瑞拉站在一起",
-          "url": "https://flash.jin10.com/detail/20251210151717145800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         }
       ]
     }
