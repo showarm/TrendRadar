@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T15:29:20.173197+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-12-10T16:38:11.941149+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 15时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 16时38分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -111,6 +111,18 @@
           "time_info": "[00时36分 ~ 07时27分]"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时38分]"
+        },
+        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -138,15 +150,15 @@
           "time_info": "[00时36分 ~ 03时20分]"
         },
         {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时29分]"
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
@@ -303,6 +315,17 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
           "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
           "url": "https://flash.jin10.com/detail/20251210060922610800",
           "source": "金十数据",
@@ -373,6 +396,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普谈泰柬冲突：我得打个电话",
+          "url": "https://www.toutiao.com/trending/7582060214204104755/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "特朗普：给美国经济表现打“A+++++”",
@@ -930,8 +964,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时07分 ~ 16时38分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -980,7 +1014,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -1037,7 +1071,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
