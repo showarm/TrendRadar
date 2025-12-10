@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T18:33:04.016048+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2025-12-10T19:48:27.534171+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 18时33分]"
+          "appearance_count": 25,
+          "time_info": "[00时36分 ~ 19时48分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -111,6 +111,19 @@
           "time_info": "[00时36分 ~ 07时27分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时48分]"
+        },
+        {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
           "url": "https://news.ifeng.com/c/8oyCMciyCox",
           "source": "凤凰网",
@@ -121,19 +134,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时42分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 18时33分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -156,11 +156,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时48分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -317,6 +318,18 @@
           "time_info": "[12时40分 ~ 14时42分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时48分]"
+        },
+        {
           "title": "欧盟重罚X平台遭特朗普抨击",
           "url": "https://www.douyin.com/hot/2331490",
           "source": "抖音",
@@ -329,15 +342,16 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
-          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
-          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
-          "source": "凤凰网",
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时48分]"
         },
         {
           "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
@@ -400,17 +414,6 @@
           "time_info": "[06时40分 ~ 07时27分]"
         },
         {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
           "title": "邵永灵：特朗普正用国家权力变现",
           "url": "https://www.toutiao.com/trending/7582064656005467699/",
           "source": "今日头条",
@@ -462,7 +465,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -533,6 +536,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "消息人士：随着美国总统特朗普调整打击犯罪的重点，税务诉讼大幅下降；美国联邦法院的诉讼记录显示，今年有160名司法部律师参与了税务诉讼，而去年是420名。",
+          "url": "https://flash.jin10.com/detail/20251210190245650800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "特朗普厕所门口受访被人推门撞到",
           "url": "https://www.toutiao.com/trending/7582097221663936046/",
           "source": "今日头条",
@@ -555,6 +569,17 @@
           "time_info": "11时58分"
         },
         {
+          "title": "路透社/益普索民意调查发现，近一半的美国人反对特朗普政府在加勒比海和东太平洋对船只进行致命袭击，只有三分之一的人支持。",
+          "url": "https://flash.jin10.com/detail/20251210190210044800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）将加速补充发布因特朗普政府关门事件而造成的持仓周报（COT）发布。",
           "url": "https://wallstreetcn.com/livenews/3017874",
           "source": "华尔街见闻-快讯",
@@ -566,6 +591,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "消息人士：由于特朗普政府削减了律师和代理人的人数，联邦税务起诉比2024年减少了27%以上。",
+          "url": "https://flash.jin10.com/detail/20251210190156712800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "据华尔街日报：被美国总统特朗普赦免的洪都拉斯前总统在本国面临逮捕令。",
           "url": "https://flash.jin10.com/detail/20251210015959433800",
           "source": "金十数据",
@@ -575,6 +611,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "特朗普政府官员称，美国要求国际刑事法院承诺不起诉美国总统特朗普及其高级官员，否则将对更多国际刑事法院官员实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251210190033358800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
+          "url": "https://wallstreetcn.com/livenews/3018408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
@@ -1000,8 +1058,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时07分 ~ 18时33分]"
+          "appearance_count": 13,
+          "time_info": "[10时07分 ~ 19时48分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1049,7 +1107,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1071,7 +1129,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1082,7 +1140,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
