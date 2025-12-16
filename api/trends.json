@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T13:30:57.550877+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2025-12-16T14:44:05.006117+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 13时30分]"
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 14时44分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -68,8 +68,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 13时30分]"
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 14时44分]"
+        },
+        {
+          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://news.ifeng.com/c/8p7htngCHQD",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 14时44分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -99,16 +112,30 @@
           "time_info": "[12时45分 ~ 13时30分]"
         },
         {
-          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://news.ifeng.com/c/8p7htngCHQD",
-          "source": "凤凰网",
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            12
+            13,
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 13时30分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时44分]"
+        },
+        {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时44分]"
         },
         {
           "title": "美国总统特朗普：“强烈”考虑通过行政命令重新归类大麻。",
@@ -148,30 +175,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 03时26分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时30分]"
-        },
-        {
-          "title": "特朗普正式起诉BBC 共索赔100亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时30分]"
         },
         {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
@@ -292,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时28分]"
+        },
+        {
+          "title": "美特使和特朗普女婿疑似没认出德总理",
+          "url": "https://www.toutiao.com/trending/7584270560197099539/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
@@ -511,6 +525,19 @@
           "time_info": "[00时40分 ~ 06时28分]"
         },
         {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时27分 ~ 14时44分]"
+        },
+        {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
@@ -524,19 +551,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 10时08分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时27分 ~ 13时30分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.41%，报336.35点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2398.34点。",
@@ -636,7 +650,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -661,6 +675,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时32分]"
+        },
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
@@ -698,7 +723,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
