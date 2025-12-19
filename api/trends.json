@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T12:44:12.815085+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-12-19T13:30:57.688012+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -31,6 +31,17 @@
           "time_info": "[00时39分 ~ 07时27分]"
         },
         {
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 13时30分]"
+        },
+        {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
           "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
           "source": "澎湃新闻",
@@ -42,19 +53,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时29分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普再次向乌克兰施压",
-          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时44分]"
+          "appearance_count": 15,
+          "time_info": "[01时29分 ~ 13时30分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 13时30分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -78,8 +78,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 13时30分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 13时30分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 13时30分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -113,29 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -297,6 +298,17 @@
           "time_info": "[02时41分 ~ 03时22分]"
         },
         {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
           "title": "美国总统特朗普将把军队住房资金用做国防部奖金。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3023248",
           "source": "华尔街见闻-快讯",
@@ -412,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
+          "url": "https://flash.jin10.com/detail/20251219123531783800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
@@ -541,7 +564,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -792,8 +815,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时26分 ~ 12时44分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 13时30分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -807,6 +830,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时40分 ~ 06时27分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 13时30分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -854,18 +889,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 12时44分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）热门中概股行情一览（美股收盘）",
@@ -1023,6 +1046,18 @@
           "time_info": "06时27分"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 13时30分]"
+        },
+        {
           "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
           "url": "https://wallstreetcn.com/livenews/3023315",
           "source": "华尔街见闻-快讯",
@@ -1046,18 +1081,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时22分]"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 12时44分]"
         },
         {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
