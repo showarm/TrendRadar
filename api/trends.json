@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:46:51.639835+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-02-24T21:23:24.346650+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -68,6 +68,29 @@
           "time_info": "[02时01分 ~ 07时40分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时58分 ~ 21时23分]"
+        },
+        {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
           "url": "https://news.ifeng.com/c/8qzr8hme4jH",
           "source": "凤凰网",
@@ -107,27 +130,17 @@
           "time_info": "[10时45分 ~ 14时07分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
           "source": "财联社热门",
           "ranks": [
-            7,
-            1
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 19时46分]"
-        },
-        {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 21时23分]"
         },
         {
           "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
@@ -139,6 +152,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 21时23分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普今晚将发表几项政策声明。 美国正敦促墨西哥采取更多行动。 美国国务院正向在墨西哥的美国公民提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3058150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
@@ -176,30 +211,6 @@
           "time_info": "03时51分"
         },
         {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 19时46分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 19时46分]"
-        },
-        {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
           "url": "https://wallstreetcn.com/livenews/3057674",
           "source": "华尔街见闻-快讯",
@@ -211,6 +222,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时59分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 21时23分]"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -345,18 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 19时46分]"
         },
         {
           "title": "特朗普释放美伊局势缓和信号：更倾向协议而非战争",
@@ -603,7 +615,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -625,7 +637,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -672,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "市场明早将紧盯特朗普国情咨文演讲",
+          "url": "https://www.toutiao.com/trending/7610388640887213606/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "美国参议院少数党领袖：参议院民主党人将阻止特朗普延长关税",
@@ -732,7 +755,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -746,8 +769,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时52分 ~ 19时46分]"
+          "appearance_count": 13,
+          "time_info": "[06时52分 ~ 21时23分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -789,8 +812,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时01分 ~ 19时46分]"
+          "appearance_count": 18,
+          "time_info": "[02时01分 ~ 21时23分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -803,8 +826,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 19时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 21时23分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -865,17 +888,6 @@
           "time_info": "16时59分"
         },
         {
-          "title": "伊朗军队在南部沿海地区举行军事演习",
-          "url": "https://wallstreetcn.com/livenews/3058115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
           "title": "内塔尼亚胡警告伊朗",
           "url": "https://www.douyin.com/hot/2409895",
           "source": "抖音",
@@ -907,11 +919,24 @@
           "source": "抖音",
           "ranks": [
             9,
-            1
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 21时23分]"
+        },
+        {
+          "title": "伊朗军队在南部沿海地区举行军事演习",
+          "url": "https://wallstreetcn.com/livenews/3058115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时04分 ~ 19时46分]"
+          "time_info": "[19时46分 ~ 21时23分]"
         },
         {
           "title": "美国持续集结兵力考虑军事打击伊朗",
@@ -936,6 +961,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时54分]"
+        },
+        {
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 21时23分]"
         },
         {
           "title": "据阿联酋通讯社：阿联酋和伊朗外长讨论了地区发展和双边关系，并审查了影响和平、安全和共同利益的问题。",
@@ -970,17 +1007,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
-        },
-        {
-          "title": "中方回应“美考虑军事打击伊朗”",
-          "url": "https://www.douyin.com/hot/2410571",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "伊朗",
@@ -1027,6 +1053,28 @@
           "time_info": "03时51分"
         },
         {
+          "title": "以色列议会副议长称美国对伊朗动武只是时间问题",
+          "url": "https://flash.jin10.com/detail/20260224205159761800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "伊朗国防部长：若战争被强加于我们，我们将给敌人一个刻骨铭心的教训。",
+          "url": "https://flash.jin10.com/detail/20260224204828380800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "阿联酋与伊朗外长讨论地区局势发展。",
           "url": "https://wallstreetcn.com/livenews/3057644",
           "source": "华尔街见闻-快讯",
@@ -1041,7 +1089,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1052,8 +1100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 19时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 21时23分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -1066,8 +1114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 19时46分]"
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 21时23分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -1132,6 +1180,30 @@
           "time_info": "[13时02分 ~ 18时04分]"
         },
         {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 21时23分]"
+        },
+        {
+          "title": "AT&T美股盘前下跌8.8%。",
+          "url": "https://wallstreetcn.com/livenews/3058151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
           "url": "https://wallstreetcn.com/livenews/3057632",
           "source": "华尔街见闻-快讯",
@@ -1143,16 +1215,15 @@
           "time_info": "04时54分"
         },
         {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
+          "title": "财捷美股盘前涨超6%，公司和ANTHROPIC宣布建立多年合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3058148",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 19时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -1251,15 +1322,48 @@
           "time_info": "[05时59分 ~ 06时53分]"
         },
         {
+          "title": "META美股盘前走低，现跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3058129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "家得宝调第四季度整后每股收益2.72美元，上年同期3.13美元，预估2.55美元。 第四季度每股收益2.58美元，上年同期3.02美元。 第四季度销售净额382.0亿美元，同比下降3.8%，预估382.7亿美元。 第四季度同店销售增长0.4％，预估下降0.36％。 家得宝预计全年营收变动大约增长2.5％至4.5％。 家得宝预计全年同店销售大约增长0％至2％，预估增长1.71％。 家得宝美股盘前涨2.5%。",
           "url": "https://wallstreetcn.com/livenews/3058092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "AMD美股盘前涨超15%，Meta与AMD达成重磅协议，斥资数百亿美元采购AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)美股盘前下跌约3%。",
+          "url": "https://flash.jin10.com/detail/20260224204400024800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
@@ -1347,7 +1451,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1407,6 +1511,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通美债客户调查显示中性占比创2024年12月以来新高",
+          "url": "https://wallstreetcn.com/livenews/3058139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美债黄金携手大涨！市场直面三大风暴眼：特朗普关税、AI恐慌、伊朗局势",
+          "url": "https://www.cls.cn/detail/2293144",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -1420,23 +1552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债黄金携手大涨！市场直面三大风暴眼：特朗普关税、AI恐慌、伊朗局势",
-          "url": "https://www.cls.cn/detail/2293144",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
         }
       ]
     },
