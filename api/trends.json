@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T14:08:50.680663+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-04-17T16:49:16.097211+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时22分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[01时22分 ~ 16时49分]"
         },
         {
           "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时22分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[01时22分 ~ 16时49分]"
         },
         {
           "title": "伊朗披露击落美C-130细节",
@@ -244,9 +244,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028238414336585868",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时49分]"
         },
         {
           "title": "WTI原油5分钟内上涨0.53美元/桶，报94.44美元/桶；布伦特原油期货日内涨超4美元。报道称，美国需要大约半年时间才能与伊朗达成协议。",
@@ -258,6 +270,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时49分]"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时49分]"
         },
         {
           "title": "伊朗议会议长：伊朗将以谨慎态度对待黎以停火",
@@ -333,17 +371,6 @@
           "time_info": "[11时27分 ~ 14时08分]"
         },
         {
-          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028238414336585868",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时08分]"
-        },
-        {
           "title": "中国向伊朗提供58吨物资援助",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B58%E5%90%A8%E7%89%A9%E8%B5%84%E6%8F%B4%E5%8A%A9",
           "source": "bilibili 热搜",
@@ -356,35 +383,11 @@
           "time_info": "[11时27分 ~ 14时08分]"
         },
         {
-          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时08分]"
-        },
-        {
           "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
           "url": "https://www.cls.cn/detail/2346894",
           "source": "财联社热门",
           "ranks": [
             10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时08分]"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
             11
           ],
           "is_new": false,
@@ -467,7 +470,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -709,7 +712,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -731,7 +734,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
@@ -739,7 +742,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -774,8 +777,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时22分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[01时22分 ~ 16时49分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -787,6 +790,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时22分 ~ 07时52分]"
+        },
+        {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时49分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时49分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -824,30 +851,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 06时52分]"
-        },
-        {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时08分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时08分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -941,6 +944,28 @@
           "time_info": "[05时54分 ~ 06时52分]"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 16时49分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
           "title": "美国总统特朗普：意大利没有支持我们，我们也不会支持他们。",
           "url": "https://flash.jin10.com/detail/20260417052236496800",
           "source": "金十数据",
@@ -1031,17 +1056,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "限特朗普战争权力议案遭美众院否决",
@@ -1231,6 +1245,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "特朗普声称伊朗已作关键妥协：“他们带支笔过来就行”！",
+          "url": "https://flash.jin10.com/detail/20260417161746018800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "特朗普说将邀请以黎领导人前往白宫会谈",
           "url": "https://wallstreetcn.com/livenews/3089478",
           "source": "华尔街见闻-快讯",
@@ -1267,8 +1292,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时52分 ~ 16时49分]"
+        },
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 16时49分]"
+        },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
           "url": "https://wallstreetcn.com/articles/3770109",
@@ -1280,19 +1329,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 04时58分]"
-        },
-        {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 14时08分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -1319,17 +1355,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时22分 ~ 11时28分]"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 14时08分]"
         },
         {
           "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
@@ -1396,9 +1421,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "瑞银：投资者将把关注点从中东问题转移到经济和盈利基本面 美股仍具吸引力",
+          "url": "https://flash.jin10.com/detail/20260417162447835800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -1454,6 +1490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "奈飞美股盘前跌近10%，Q1业绩超预期增长但指引逊色，公司董事长将离任。",
+          "url": "https://wallstreetcn.com/livenews/3089899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
@@ -1467,11 +1514,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 14时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 16时49分]"
         },
         {
           "title": "OpenAI发布用于药物研发的新款AI模型。",
@@ -1564,7 +1612,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
@@ -1646,6 +1694,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋：DeepSeek如果先在华为平台适配，对美国来说非常糟糕。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3089919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     }
