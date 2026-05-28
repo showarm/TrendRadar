@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T13:14:18.513311+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-05-28T18:16:34.031348+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -27,8 +27,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 18时16分]"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时14分]"
+          "time_info": "[13时14分 ~ 18时16分]"
         },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -103,18 +115,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
-          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -156,11 +157,12 @@
           "url": "https://wallstreetcn.com/articles/3773275",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 18时16分]"
         },
         {
           "title": "美国总统特朗普：我们得到了其他国家的巨大支持。",
@@ -172,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美国法官允许特朗普收紧邮寄投票 民主党遭遇挫败",
+          "url": "https://flash.jin10.com/detail/20260528174251429800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美国总统特朗普参加内阁会议。",
@@ -328,6 +341,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "美媒：特朗普逐步加码“绞杀”古巴",
+          "url": "https://flash.jin10.com/detail/20260528173529978800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国总统特朗普：很快，美国和亚美尼亚将共同启动国际和平与繁荣的特朗普路线，这将改变南高加索，并帮助我们优秀的美国能源公司获得从中亚直通美国的通道。",
           "url": "https://flash.jin10.com/detail/20260528065553692800",
           "source": "金十数据",
@@ -345,7 +369,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -496,7 +520,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "王毅谈当前伊朗局势僵局",
@@ -558,28 +582,30 @@
           "time_info": "[00时41分 ~ 06时02分]"
         },
         {
-          "title": "伊朗先发制人了",
-          "url": "https://news.ifeng.com/c/8tUFuNsH8BY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时14分]"
-        },
-        {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
           "url": "https://wallstreetcn.com/articles/3773253",
           "source": "华尔街见闻",
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 18时16分]"
+        },
+        {
+          "title": "伊朗先发制人了",
+          "url": "https://news.ifeng.com/c/8tUFuNsH8BY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 18时16分]"
         },
         {
           "title": "美官员：美军对伊朗军事设施实施新打击",
@@ -621,7 +647,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -637,6 +663,41 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时41分 ~ 08时05分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 18时16分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2043104464907629617",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 18时16分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 18时16分]"
         },
         {
           "title": "美军事力量将撤出伊朗周边",
@@ -705,28 +766,6 @@
           "time_info": "08时05分"
         },
         {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
           "title": "伊朗阿巴斯港附近传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3110291",
           "source": "华尔街见闻-快讯",
@@ -758,17 +797,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2043104464907629617",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
         },
         {
           "title": "伊朗阿巴斯港发生爆炸 防空系统启动数分钟",
@@ -824,12 +852,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗称过去24小时有23艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3110607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -848,11 +887,12 @@
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 18时16分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
@@ -902,6 +942,28 @@
           "time_info": "[00时41分 ~ 03时29分]"
         },
         {
+          "title": "当AI愈发相信“光”的力量！美股光通信龙头大幅上调营收预期",
+          "url": "https://www.cls.cn/detail/2383585",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "微博第一季度净营收4.213亿美元，预估4.176亿美元。 第一季度调整后每股收益0.34美元，预估0.36美元。 第一季度调整后息税折旧及摊销前利润1.268亿美元，同比下降9.3%，预估1.158亿美元。 第一季度月活跃用户5.6亿，同比下降4.9%，预估5.8亿。 第一季度日活跃用户2.5亿，同比下降2.7%，预估2.6亿。 微博美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3110639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "现货黄金跌约1.2%，美股盘前逼近4400美元",
           "url": "https://wallstreetcn.com/livenews/3110264",
           "source": "华尔街见闻-快讯",
@@ -911,6 +973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "小鹏集团第一季度营收130.3亿元人民币，预估131.6亿元人民币。 第一季度经营亏损18.7亿元人民币。 小鹏集团预计第二季度交付量100000至106000辆，市场预估96923辆。 小鹏集团预计第二季度营收196.0亿元人民币至208.0亿元人民币。 小鹏集团美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3110636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -957,6 +1030,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "理想汽车美股盘前跌近5%，公司一季度营收及二季度业绩指引低于预期。",
+          "url": "https://wallstreetcn.com/livenews/3110612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
           "url": "https://wallstreetcn.com/livenews/3110250",
           "source": "华尔街见闻-快讯",
@@ -966,12 +1050,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "Snowflake美股盘前涨近35%，公司与AWS签订60亿美元采购协议。",
+          "url": "https://wallstreetcn.com/livenews/3110604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek网页及API服务中断",
@@ -980,9 +1075,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "报道：国家大基金领投DeepSeek，投前估值450亿美元",
@@ -991,7 +1097,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -1002,7 +1108,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -1013,7 +1119,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         }
@@ -1084,6 +1190,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
